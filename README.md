@@ -19,3 +19,7 @@ Click on one of the following buttons to deploy on your favorite service.
 
 ### Netlify
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bettercalendly/calendly)
+
+---
+## Contributing
+Pull Requests are welcome. Please feel free to raise issues if you have errors or want a new feature to be integrated.
