@@ -1,3 +1,8 @@
 [template.environment]
   REACT_APP_USERNAME = ""
   REACT_APP_FULL_NAME = ""
+
+[build]
+  base = "."
+  publish = "build/"
+  command = "npm run build"
