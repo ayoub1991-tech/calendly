@@ -1,0 +1,10 @@
+{
+    "name": "Better Calendly",
+    "description": "Host calendly on your custom domain.",
+    "repository": "https://github.com/bettercalendly/calendly",
+    "keywords": ["node", "react", "calendly", "bettercalendly"],
+    "env": {
+        "REACT_APP_USERNAME": "",
+        "REACT_APP_FULL_NAME": ""
+    }
+  }
