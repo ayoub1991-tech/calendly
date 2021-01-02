@@ -1,0 +1,6 @@
+netlify.toml
+LICENSE
+README.md
+.gitignore
+app.json
+static.json
