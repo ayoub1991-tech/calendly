@@ -16,8 +16,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build && echo '/* /index.html  200' | cat >build/_redirects",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "heroku-postbuild": "npm install && npm run build && cd build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
